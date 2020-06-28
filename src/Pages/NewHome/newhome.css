@@ -1,0 +1,8 @@
+.div-newhome{
+    width: 80%;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    margin-top: 30px;
+    justify-content: space-between;
+}

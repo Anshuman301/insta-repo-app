@@ -1,0 +1,22 @@
+nav{
+    height: 50px;
+    border: 1px solid #dfdfdf;
+}
+
+.div-header{
+    width: 80%;
+    height: 100%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.div-svg{
+    height: 30px;
+    width: 30px;
+    padding: 0 20px;
+}
+.active{
+    border-bottom: 2px solid firebrick;
+}
