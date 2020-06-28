@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b9c1515bb798826fa81a195c4d32f1e5",
+    "revision": "3b29b45f709b54434e40b0b01f1b56b6",
     "url": "/insta-repo-app/index.html"
   },
   {
-    "revision": "95a2d4cc9ce70555189e",
+    "revision": "fdd51fe84bde2e809860",
     "url": "/insta-repo-app/static/css/main.95c423ca.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/insta-repo-app/static/js/2.5993779a.chunk.js"
   },
   {
-    "revision": "95a2d4cc9ce70555189e",
-    "url": "/insta-repo-app/static/js/main.a1afb31a.chunk.js"
+    "revision": "fdd51fe84bde2e809860",
+    "url": "/insta-repo-app/static/js/main.5429200c.chunk.js"
   },
   {
     "revision": "f49d3bb629b4e2905ea2",
